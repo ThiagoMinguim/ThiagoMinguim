@@ -14,7 +14,7 @@ I'm a Front-End Developer from Brazil, I started programming in 2021, specializi
 ### 📫 How to reach me
 
 - Email: thiago.minguim@gmail.com
-- LinkedIn: https://www.linkedin.com/in/thiago-minguim-5b0baa209/(#)
+- LinkedIn: https://www.linkedin.com/in/thiago-minguim-5b0baa209/
 
 ![Snake animation](https://github.com/ThiagoMinguim/ThiagoMinguim/blob/output/github-contribution-grid-snake.svg)
 
