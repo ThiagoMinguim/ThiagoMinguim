@@ -18,6 +18,6 @@ I'm a Front-End Developer from Brazil, I started programming in 2021, specializi
 
 ![Snake animation](https://github.com/ThiagoMinguim/ThiagoMinguim/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/ThiagoMinguim/ThiagoMinguim/master/image/macbook.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/ThiagoMinguim/ThiagoMinguim/master/image/macbook.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 Thank you for visiting my profile!
