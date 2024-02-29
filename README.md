@@ -6,8 +6,6 @@ I'm a Front-End Developer from Brazil, I started programming in 2021, specializi
 
 ### 🛠️ Technologies & Tools
 
-<img src="https://github.com/ThiagoMinguim/ThiagoMinguim/blob/main/mac.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 - **Languages:** JavaScript, TypeScript
 - **Frameworks/Libraries:** React, Next.js, Vue
 - **CSS Frameworks:** Tailwind CSS, Styled Components
