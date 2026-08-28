@@ -1,21 +1,27 @@
-# Hi there, I'm Thiago Minguim 👋
+# Thiago Minguim
 
-## Front-End Developer
+**Desenvolvedor Full Stack** | React · Next.js · TypeScript · Node.js · IA aplicada
 
-I'm a Front-End Developer from Brazil, I started programming in 2021, specializing in creating dynamic and user-friendly web applications. With a focus on JavaScript, TypeScript, React, Next.js, Vue, and Tailwind CSS, I strive to deliver exceptional user experiences and innovative solutions.
+Cinco anos construindo produto. Trabalhei em fintech, cripto e agronegócio: dashboards, painéis internos, fluxos de dados e interfaces integradas a sistemas corporativos.
 
-### 🛠️ Technologies & Tools
+Nos últimos projetos atuei com experiências conversacionais e IA no front-end: chats com streaming, estados de conversa, fallback, respostas estruturadas, integração com APIs, WhatsApp Flows, Dialogflow e agentes de IA.
 
-- **Languages:** JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Next.js, Vue
-- **CSS Frameworks:** Tailwind CSS, Styled Components
-- **Tools:** Git, GitHub, VSCode
+Meu foco é transformar fluxos complexos em interfaces simples, estáveis e orientadas à experiência do usuário.
 
-### 📫 How to reach me
+---
 
-- Email: thiago.minguim@gmail.com
-- LinkedIn: https://www.linkedin.com/in/thiago-minguim-5b0baa209/
+### Stack
 
-![Snake animation](https://github.com/ThiagoMinguim/ThiagoMinguim/blob/output/github-contribution-grid-snake.svg)
+**Front-end** &nbsp; React · Next.js · Vue · Nuxt · TypeScript · JavaScript · Tailwind · Styled Components · Material UI · Ant Design
 
-Thank you for visiting my profile!
+**Back-end** &nbsp; Node.js · APIs REST · Go
+
+**IA** &nbsp; LangChain · LangGraph · Dialogflow · WhatsApp Flows · agentes e chat com streaming
+
+**Web3** &nbsp; integração com carteiras e dApps
+
+---
+
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/thiagominguim/) · thiago.minguim@gmail.com
