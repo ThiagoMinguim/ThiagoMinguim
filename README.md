@@ -24,4 +24,4 @@ Meu foco é transformar fluxos complexos em interfaces simples, estáveis e orie
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/thiagominguim/) · thiago.minguim@gmail.com
+[LinkedIn](https://www.linkedin.com/in/thiago-minguim/) · thiago.minguim@gmail.com
